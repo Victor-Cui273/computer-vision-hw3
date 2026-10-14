@@ -1,0 +1,204 @@
+{
+  "logs-1.jpg": {
+    "width": 750,
+    "roi": [
+      235,
+      5,
+      435,
+      510
+    ],
+    "stretch": 1,
+    "min_dist": 12,
+    "bands": [
+      [
+        10,
+        65,
+        0.75
+      ]
+    ],
+    "blur": 5,
+    "wood": true,
+    "exclude_side": false,
+    "rim_check": false,
+    "dark_center": false
+  },
+  "logs-2.jpg": {
+    "width": 750,
+    "roi": [
+      170,
+      30,
+      395,
+      475
+    ],
+    "stretch": 1,
+    "min_dist": 12,
+    "bands": [
+      [
+        9,
+        60,
+        0.78
+      ]
+    ],
+    "blur": 5,
+    "wood": true,
+    "exclude_side": false,
+    "rim_check": false,
+    "dark_center": false
+  },
+  "logs-3.jpg": {
+    "width": 1500,
+    "roi": [
+      230,
+      600,
+      294,
+      340
+    ],
+    "stretch": 1,
+    "min_dist": 12,
+    "bands": [
+      [
+        8,
+        34,
+        0.75
+      ]
+    ],
+    "blur": 3,
+    "wood": true,
+    "exclude_side": false,
+    "rim_check": false,
+    "dark_center": false
+  },
+  "logs-4.jpg": {
+    "width": 514,
+    "roi": null,
+    "stretch": 1.6,
+    "min_dist": 12,
+    "bands": [
+      [
+        8,
+        42,
+        0.6
+      ]
+    ],
+    "blur": 5,
+    "wood": true,
+    "exclude_side": false,
+    "rim_check": false,
+    "dark_center": false,
+    "polygon": [
+      [
+        0,
+        0
+      ],
+      [
+        100,
+        60
+      ],
+      [
+        170,
+        130
+      ],
+      [
+        255,
+        240
+      ],
+      [
+        320,
+        280
+      ],
+      [
+        335,
+        360
+      ],
+      [
+        380,
+        400
+      ],
+      [
+        480,
+        430
+      ],
+      [
+        505,
+        490
+      ],
+      [
+        514,
+        561
+      ],
+      [
+        0,
+        561
+      ]
+    ]
+  },
+  "pipes-4.jpg": {
+    "width": 556,
+    "roi": null,
+    "stretch": 1,
+    "min_dist": 10,
+    "bands": [
+      [
+        7,
+        25,
+        0.7
+      ]
+    ],
+    "blur": 5,
+    "wood": false,
+    "exclude_side": true,
+    "rim_check": false,
+    "dark_center": false
+  },
+  "pipes-5.jpg": {
+    "width": 826,
+    "roi": null,
+    "stretch": 1,
+    "min_dist": 8,
+    "bands": [
+      [
+        5,
+        28,
+        0.78
+      ],
+      [
+        28,
+        125,
+        0.93
+      ]
+    ],
+    "blur": 3,
+    "wood": false,
+    "exclude_side": false,
+    "rim_check": true,
+    "dark_center": false
+  },
+  "pipes-6.jpg": {
+    "width": 1000,
+    "roi": [
+      0,
+      0,
+      850,
+      523
+    ],
+    "stretch": 1,
+    "min_dist": 8,
+    "bands": [
+      [
+        10,
+        50,
+        0.85
+      ],
+      [
+        50,
+        140,
+        0.93
+      ]
+    ],
+    "blur": 3,
+    "wood": false,
+    "exclude_side": false,
+    "rim_check": true,
+    "dark_center": true
+  }
+}
